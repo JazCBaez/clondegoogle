@@ -3,7 +3,7 @@
 ## ÍNDICE
 
 * [1. Intro](https://github.com/JazCBaez/clondegoogle/tree/main#1-intro)
-* [2. Qué construí](#)
+* [2. Qué construí](https://github.com/JazCBaez/clondegoogle/tree/main#2qu%C3%A9-contru%C3%AD)
 * [3. Objetivo del proyecto](#)
 
 ****
